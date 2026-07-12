@@ -1,5 +1,4 @@
-console.log("BODY:", req.body);
-console.log("FILE:", req.file);
+
 const Issue = require('../models/Issue');
 const ActivityLog = require('../models/ActivityLog');
 const { suggestPriority } = require('../services/aiService');
