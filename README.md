@@ -2,7 +2,7 @@
 
 Issue_PilotAI is a full-stack MERN application inspired by Jira and GitHub Issues. It helps developers efficiently manage software projects by tracking bugs, organizing issues, monitoring progress, and leveraging AI to prioritize and analyze issues.
 
-The project is designed with a clean MVC architecture and integrates Groq AI to provide intelligent bug analysis, priority suggestions, and project summaries.
+The project is designed with a clean MVC architecture and integrates Groq AI to provide intelligent bug analysis, priority suggestions, and project summaries. 
 
 ---
 
