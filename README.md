@@ -266,24 +266,6 @@ GROQ_API_KEY=your_groq_api_key
 
 ---
 
-# 📸 Screenshots
-
-
-## Dashboard
-
-![Dashboard](./screenshots/dashboard.png)
-
----
-
-## Projects Page
-
-![Projects Page](./screenshots/ProjectIssues.png)
-
----
-
-## Create Issue
-
-![Create Issue](./screenshots/CreateIssue.png)
 
 
 # 🔮 Future Enhancements
